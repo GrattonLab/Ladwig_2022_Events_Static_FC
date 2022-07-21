@@ -14,6 +14,8 @@ Fig S4: Use pca_real.m, pca_sim.m to find pattern in PC1.
 
 Fig S6: Use offset_analysis.m to do circularly shifting analysis.
 
+matrix_thresholder and modularity_und are required helper functions.
+
 Please reach out to me at ladwig.zach@gmail.com with any questions.
 
 Parcellated MSC Data used for these analyses can be found on our lab website (https://www.grattonlab.org/data_software).
